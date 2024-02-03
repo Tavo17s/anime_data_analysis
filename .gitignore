@@ -259,6 +259,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 .idea/
+*.csv
 
 # Windows shortcuts
 *.lnk
