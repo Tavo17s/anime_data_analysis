@@ -1,4 +1,4 @@
-# Data analysis and Anime Recommendation System
+# Anime Data analysis and Recommendation System
 
 ## Overview
 ### This repository contains two Jupyter notebooks that focus on different aspects of anime data:
